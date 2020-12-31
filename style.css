@@ -1,0 +1,17 @@
+.headertitle{
+        background-image:url('Image/breathableat.jpg');
+	background-size:cover;
+	background-position:center;
+        margin:40px 40px 20px;
+	height:300px;
+        text-align: center;
+	color:magenta;
+}
+.divstyle{
+    margin:20px 40px 20px;
+    border:2px solid black;
+    padding:20px;
+}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+li {font-size: 20px}
